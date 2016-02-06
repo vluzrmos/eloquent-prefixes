@@ -100,5 +100,5 @@ class MyModel extends Model {
 
 # TODO
 
-[ ] Work with query builders
-[ x ] Work with model attributes
+- [ ] Work with Query Builders
+- [x] Work with model attributes
