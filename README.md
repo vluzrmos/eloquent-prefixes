@@ -24,7 +24,7 @@ class MyModel extends Model {
     /**
      * Array of attributes to prefix
      */ 
-    protected $attributeToPrefix = [
+    protected $attributesToPrefix = [
         'name',
         'email'
     ];
@@ -83,7 +83,7 @@ class MyModel extends Model {
     /**
      * Array of attributes to prefix
      */ 
-    protected $attributeToPrefix = [
+    protected $attributesToPrefix = [
         'name',
         'email'
     ];
