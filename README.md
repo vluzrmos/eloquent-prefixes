@@ -100,5 +100,5 @@ class MyModel extends Model {
 
 # TODO
 
-- [ ] Work with Query Builders
-- [x] Work with model attributes
+- [ ] Works with Query Builders
+- [x] Works with Model Attributes (Automatic Accessors and Mutators)
