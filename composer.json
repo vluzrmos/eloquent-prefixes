@@ -1,6 +1,7 @@
 {
     "name": "vluzrmos/eloquent-prefixes",
     "description": "Allow to work with prefixes attributes name",
+    "license" : "MIT",
     "require": {
         "illuminate/database": "~5.0"
     },
