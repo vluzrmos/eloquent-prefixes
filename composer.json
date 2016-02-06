@@ -1,0 +1,18 @@
+{
+    "name": "vluzrmos/eloquent-prefixes",
+    "description": "Allow to work with prefixes attributes name",
+    "require": {
+        "illuminate/database": "~5.0"
+    },
+    "authors": [
+        {
+            "name": "Vagner do Carmo",
+            "email": "vluzrmos@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "Vluzrmos\\" : "src/"
+        }
+    }
+}
